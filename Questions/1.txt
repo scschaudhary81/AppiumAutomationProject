@@ -1,0 +1,18 @@
+some interview questions my friend has faced
+
+1. Difference between Selenium 4 and 3
+2. Features of Selenium 4
+3. Relative locators in Selenium 4
+4. Scrolling a page in Selenium using JavaScript
+5. Fluent wait in Selenium
+6. How do you check for broken links in Selenium?
+7. Status code difference between 200 and 201
+8. Bug life cycle
+9. Deferred bug
+10. If an element is within a range of 50 pixels, how do you identify that element?
+11. Soft assertion
+12. What are listeners in Selenium?
+13. Which version of Selenium do you use?
+14. `setWebDriver` method usage
+15. How can you launch different browsers in Selenium?
+16. Roles and responsibilities
